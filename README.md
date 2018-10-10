@@ -1,2 +1,4 @@
 # hello-world
-just an amateur programer
+
+Hi !
+I am Khairin, an amateur programer
